@@ -1,0 +1,4 @@
+SIDEWHICHPREVENTEDHEROPENINGTH
+
+Vigenere Table: Alphabet Vs KeyRepeated, Col T till L = Row S, E till M = I
+

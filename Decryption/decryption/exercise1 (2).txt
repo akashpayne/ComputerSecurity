@@ -1,0 +1,3 @@
+HETHATCHOFTHEHOUSEWHICHREQUIR
+
+Assign alphabet nums, shift freq to the left for V,K,R=A,E,T. 9: A=J, V=E. 
